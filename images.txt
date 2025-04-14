@@ -20,7 +20,7 @@ seataio/seata-server:2.0.0
 javajianghu/sentinel-dashboard:v1.8.8
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
-mysql：5.7.25
+mysql:5.7.25
 
 #bitnami/prometheus:3.0.1
 #canal/canal-server:v1.1.7
