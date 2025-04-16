@@ -24,5 +24,12 @@ mysql:5.7.25
 
 #bitnami/prometheus:3.0.1
 #canal/canal-server:v1.1.7
-
-
+#鸡翅Club项目所需要的images
+mysql:5.7
+jenkins/jenkins:2.414.2
+minio/minio
+minio/mc
+nacos/nacos-server
+redis
+elasticsearch:7.3.1
+xuxueli/xxl-job-admin:2.4.0
